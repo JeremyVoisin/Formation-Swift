@@ -1,13 +1,13 @@
-#TP1 - Prise en main des environnements Swift
+# TP1 - Prise en main des environnements Swift
 
-##Introduction
+## Introduction
 
 Il s'agit, dans ce premier TP, de découvrir les environnements de développement et d'exécution de Swift.
 
 
-##Exercices
+## Exercices
 
-###1. La read–eval–print loop (REPL) Swift
+### 1. La read–eval–print loop (REPL) Swift
 
 Swift, de la même façon que des langages interprétés comme Python et Ruby, dispose d'une REPL qui permet entre autres l'exécution temps réel d'une instruction en conservant tout ce qui est déclaré précédemment dans l'exécution courante.
 
@@ -31,10 +31,10 @@ Le résultat devrait être :
 Hello world
 ```
 
-###2. Playground XCode
+### 2. Playground XCode
 
 ![Capture playground](img/playground.png)
 
-##Conclusion
+## Conclusion
 
 Bravo, vous maîtrisez désormais différents environnements d'exécution et de developpement de Swift.
