@@ -78,6 +78,36 @@ La petite flêche bleue n'est plus présente que sur la ligne que nous venons d'
 
 Un nouveau composant apparaît en bas de fenêtre, il s'agit de la console de sortie. Cette fois, le `print` est exécute, la sortie s'affiche donc.
 
+### 3. Projet XCode classique
+
+Cette fois ci nous allons créer un projet classique, tels que nous pourrions en créer pour démarrer une nouvelle application, ou que nous trouverions dans un projet existant.
+
+Nous allons revenir sur l'écran de création de projet et sélectionner **`Create a new Xcode project`**.
+
+<div style="margin:50px;text-align: center">
+    <img src="img/playground7.png" height=300/>
+</div>
+
+Ensuite, nous choisirons le template **`Command Line Tool`** sous l'onglet macOS.
+
+<div style="margin:50px;text-align: center">
+    <img src="img/xcode.png" height=800/>
+</div>
+
+Xcode nous demande quelques informations.
+
+<div style="margin:50px;text-align: center">
+    <img src="img/xcode2.png" height=800/>
+</div>
+
+Nous arrivons finalement dans la vue principale de notre projet sur XCode. Nous pouvons sélectionner le fichier main.swift qui est créé par défaut.
+
+<div style="margin:50px;text-align: center">
+    <img src="img/xcode3.png" height=800/>
+</div>
+
+Cette fois, le "Hello world" est déjà créé, cliquons sur le bouton **`Play`** en haut à gauche du projet pour lancer le projet. La console s'ouvre et affiche une nouvelle fois Hello world !
+
 ## Conclusion
 
-Bravo ! Vous maîtrisez désormais différents environnements d'exécution et de developpement de Swift.
+Bravo ! Nous maîtrisons désormais l'exécution de Swift dans différents environnements de developpement, nous sommes prêt à lancer la plupart des projets Swift.
