@@ -63,7 +63,7 @@ Lorsque l'étudiant convenant le plus aux critères est choisi, il devra affront
 
 ## Compléter ce TP
 
-Pour ce TP, nous utiliserons un playground Swift et uniquement les outils cités plus haut. Pour valider ce TP, il faut remplir les étapes décrites dans la démarche et afficher le résultat du combat en fin de programme.
+Pour ce TP, nous utiliserons un playground Swift ou la REPL et uniquement les outils cités plus haut. Pour valider ce TP, il faut remplir les étapes décrites dans la démarche et afficher le résultat du combat en fin de programme.
 
 La base de notre programme sera la suivante.
 
