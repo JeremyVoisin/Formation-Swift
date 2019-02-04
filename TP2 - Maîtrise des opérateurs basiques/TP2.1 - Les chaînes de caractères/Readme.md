@@ -47,6 +47,9 @@ let positionSuivante = chaine2.index(after: finDuMot)
 //Recherche d'un caractère
 let indexOfComma = chaine2.index(of: ";") ?? chaine2.endIndex
 
+let chaineDeCaractere: String? = nil
+
+let uneAutreChaine = chaineDeCaractere ?? "Hello world"
 ```
 
 ## Énoncé

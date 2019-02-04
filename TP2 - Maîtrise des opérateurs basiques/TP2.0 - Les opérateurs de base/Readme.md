@@ -10,22 +10,25 @@ Pour ce TP, nous utiliserons les éléments de Swift suivant :
 
 ```swift
 //Déclaration de variable
-var variableA = "Hello"
+var variableA: String = "Hello"
 
 //Déclaration de constante
-let variableB = 42
+let variableB: Int = 42
 
 //Déclaration de Tuple
 let tupleA = (variableA, variableB)
 
-//Récupération des valeurs d'un Tuple
+//Récupération de toutes les valeurs d'un Tuple
 let (valeurA, valeurB) = tupleA
 
 //Il est possible de faire une récupération partielle grâce à l'opérateur _
 let (valeurA, _) = tupleA
 
+//Récupération du premier élément du tuple
+let valeurA = tupleA.0
+
 //Les comparaisons entres tuples
-(1, "apple") < (2, "pear")
+(1, "android") < (2, "ios")
 
 //Les blocs conditionnels
 if variableB == valeurB {

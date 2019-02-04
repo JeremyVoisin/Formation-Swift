@@ -31,6 +31,8 @@ Le résultat devrait être :
 Hello world
 ```
 
+Sur ubuntu, il est possible d'installer une REPL en installant au préalable cLang, puis en téléchargant le package à [cette adresse](https://swift.org/download/)
+
 ### 2. Playground XCode
 
 XCode propose également aux développeurs de pouvoir exécuter du code quasiment en temps réel via un outil appelé le playground. Cet outil peut permettre de pratiquer plus facilement grâce à l'interface simple proposée. Il s'agit donc surtout d'une interface utilisée pour l'éducation ou pour exécuter rapidement du code simple.
