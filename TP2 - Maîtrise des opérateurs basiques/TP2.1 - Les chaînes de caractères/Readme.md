@@ -6,7 +6,7 @@ Ce TP permet la manipulation des outils de base de la gestion de chaînes de car
 
 ## Outils disponibles
 
-Pour ce TP, nous utiliserons les éléments de Swift suivant :
+Pour ce TP, nous utiliserons les éléments vus en formation ainsi que les instructions de Swift suivantes :
 
 ```swift
 //Déclaration de chaîne de caractères monoligne
@@ -56,10 +56,12 @@ let uneAutreChaine = chaineDeCaractere ?? "Hello world"
 
 Pour ce TP, nous disposons d'un texte multiligne de Lorem Ipsum de 200 mots environ, et nous souhaitons repérer les mots qui se trouvent après le mot **"pellentesque"**.
 
+Il conviendra aussi de remplacer les occurences du mot **vulputate** par le mot *voluptuoso*.
+
 ### Démarche
 
 Il convient dans ce TP d'utiliser uniquement les outils indiqués plus haut et ceux vu lors des TP précédents. Il est nécessaire de repérer les occurences du mot clé les unes après les autres. A chaque occurence trouvée, il faut inspecter la suite du texte pour repérer le mot qui la suit.
 
 ## Compléter ce TP
 
-Pour ce TP, nous utiliserons une nouvelle fois le playground Swift. Pour compléter ce TP, il est nécessaire d'afficher, grâce à l'interpolation de chaînes, l'ensemble des mots qui se trouvent après le mot clé donné en énoncé.
+Pour ce TP, nous utiliserons une nouvelle fois le playground Swift. Pour compléter ce TP, il est nécessaire d'afficher, grâce à l'interpolation de chaînes, l'ensemble des mots qui se trouvent après le mot clé donné en énoncé, puis d'afficher la chaine de caractères complète avec le remplacement du mot vulputate.
