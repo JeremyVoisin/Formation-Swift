@@ -8,6 +8,7 @@ enum ErreurMachine: Error{
 class Machine{
 
     let erreurALancer: ErreurMachine
+    var isEnPanne = false
 
     init(_ err: ErreurMachine = .ErreurMachineInconnue("Erreur machine inconnue")){
         erreurALancer = err
@@ -18,12 +19,17 @@ class Machine{
 
         switch randomPanne{
             case 0...8:
+                isEnPanne = true
                 exit(-1)
             case 8...10:
                 fallthrough
             default:
                 break
         }
+    }
+
+    func redemarrer(){
+        isEnPanne = false
     }
 
 }

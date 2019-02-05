@@ -1,4 +1,4 @@
-# TP 3.3 - Les génériques
+# TP 5 - Les génériques
 
 ## Introduction
 
@@ -23,5 +23,8 @@ public class MyGenericClass<T>{
 
 ## Énoncé
 
+Nous possédons un ensemble de 
 
 ## Compléter ce TP
+
+Il faut avoir pu afficher 
