@@ -39,7 +39,7 @@ struct Vehicule{
 L'objectif du TP est de classer des étudiants dans les promotions de différentes sections, en fonction de leur souhait d'orientation et des critères suivants :
 
 - La promotion contenant la section scientifique est limitée à 4 places, et nécessite une note minimum de 14/20
-- La promotion contenant la section economie n'est pas limitée en place mais demande une note minimum de 16/20
+- La promotion contenant la section economie n'est pas limitée en place et peut accueillir des étudiants de tout horizon mais demande une note minimum de 16/20
 - La promotion contenant la section littéraire est limitée à 10 places et peut accueillir des étudiants de tout horizon
 - Il est acceptable de placer au maximum 4 étudiants dans des sections qu'ils n'ont pas souhaité
 
