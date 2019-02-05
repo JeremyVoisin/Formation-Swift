@@ -58,7 +58,6 @@ Dans les stocks, les véhicules suivants sont disponibles :
 
 - Véhicules toutes marques possédant la direction assistée et la Radio, CD, MP3, bluetooth
 - Véhicules de la marque Peugeot ou Citroën avec navigation GPS
-- Une seule moto de marque Yamaha est disponible
 - Le parc assist est disponible uniquement sur la marque Nissan
 - Les véhicules avec climatisation sont en rupture de stocks
 
@@ -69,3 +68,8 @@ La concession met un point d'honneur à répondre à la demande de ses clients e
 ## Compléter ce TP
 
 Pour ce TP, il est nécessaire de créer la concession automobile, la gestion du parc, des stocks et permettre de rechercher dans le parc les véhicules que le client peut demander.
+
+La recherche dans le stock et dans le parc doit être réalisée avec un subscript avec un retour optionnel.
+
+A la fin de ce TP, il est nécessaire d'afficher les clients qui ont vu leur demande satisfaite et ceux qui n'ont pas pu avoir la voiture de leurs rêves, il faudra également extraire le/les critères qui ont fait que le client n'a pas pu trouver de voiture.
+
