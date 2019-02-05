@@ -71,5 +71,4 @@ Pour ce TP, il est nécessaire de créer la concession automobile, la gestion du
 
 La recherche dans le stock et dans le parc doit être réalisée avec un subscript avec un retour optionnel.
 
-A la fin de ce TP, il est nécessaire d'afficher les clients qui ont vu leur demande satisfaite et ceux qui n'ont pas pu avoir la voiture de leurs rêves, il faudra également extraire le/les critères qui ont fait que le client n'a pas pu trouver de voiture.
-
+A la fin de ce TP, il est nécessaire d'afficher les clients qui ont vu leur demande satisfaite et ceux qui n'ont pas pu avoir la voiture de leurs rêves.
