@@ -38,9 +38,9 @@ struct Vehicule{
 
 L'objectif du TP est de classer des étudiants dans les promotions de différentes sections, en fonction de leur souhait d'orientation et des critères suivants :
 
-- La section scientifique est limitée à 4 places, et nécessite une note minimum de 14/20
-- La section economie n'est pas limitée en place mais demande une note minimum de 16/20
-- La section littéraire est limitée à 10 places et peut accueillir des étudiants de tout horizon
+- La promotion contenant la section scientifique est limitée à 4 places, et nécessite une note minimum de 14/20
+- La promotion contenant la section economie n'est pas limitée en place mais demande une note minimum de 16/20
+- La promotion contenant la section littéraire est limitée à 10 places et peut accueillir des étudiants de tout horizon
 - Il est acceptable de placer au maximum 4 étudiants dans des sections qu'ils n'ont pas souhaité
 
 Considérons la promotion donnée dans le fichier promotion.swift, ce fichier est constitué d'une liste de tuples avec des arguments nommés, à savoir le nom de l'étudiant, son souhait de section et sa note. Il est nécessaire de créer une classe de chargement de cette liste non structurée pour en créer des instances de classes. Pour ce TP, il faudra respecter les contraintes suivantes :
